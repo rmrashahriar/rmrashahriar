@@ -108,10 +108,10 @@
       <line x1="16" y1="24" x2="214" y2="24" stroke="#00FF9D" stroke-width="0.75" stroke-opacity="0.4" stroke-dasharray="4,2" />
       
       <!-- Unbreakable Glowing RAFI Typography -->
-      <text x="115" y="74" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="44" font-weight="900" fill="url(#neonRafiGrad)" letter-spacing="8" filter="url(#glow)">RAFI</text>
+      <text x="115" y="72" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Fira Code', sans-serif" font-size="46" font-weight="900" fill="url(#neonRafiGrad)" letter-spacing="6" filter="url(#glow)">RAFI</text>
       
       <!-- Sub-label -->
-      <text x="115" y="102" text-anchor="middle" font-family="'Fira Code', monospace" font-size="10" fill="#00D4FF" letter-spacing="4" font-weight="bold">◈ ARCHITECT ◈</text>
+      <text x="115" y="100" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#00D4FF" letter-spacing="4" font-weight="bold">◈ ARCHITECT ◈</text>
     </g>
 
     <!-- Vertical Divider -->
