@@ -1,19 +1,21 @@
 <div align="center">
 
   <!-- Cyber Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=210&section=header&text=SECURITY%20MAINFRAME&fontSize=44&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20SYSTEMS%20ENGINEERING%20%E2%80%A2%20DEFENSIVE%20RESEARCH%20%E2%80%A2%20ARCHITECTURE&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=210&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20SYSTEMS%20ARCHITECTURE%20%E2%80%A2%20SECURITY%20RESEARCH%20%E2%80%A2%20ANDROID%20ENGINEERING&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
   <!-- Animated Terminal Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=850&lines=root%40mainframe%3A~%23+whoami;%3E+Systems+Software+Engineer+%26+Security+Researcher;%3E+Architecting+Hardened+Platforms+%26+High-Assurance+Runtimes;%3E+Defensive+Engineering+%E2%80%A2+Cryptographic+Attestation+%E2%80%A2+Sandboxing;%3E+100%25+Air-Gapped+%E2%80%A2+Zero-Telemetry+%E2%80%A2+Pure+Privacy;%3E+Access+Granted+%E2%80%94+Welcome+to+the+Mainframe+%E2%9A%A1" alt="Typing SVG" />
+  <a href="https://github.com/rmrashahriar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=850&lines=root%40rmrashahriar%3A~%23+whoami;%3E+Software+Engineer+%26+Security+Researcher;%3E+Specializing+in+Android+Architecture+%26+Low-Level+Systems;%3E+Architect+of+QuranicWords+%7C+Kotlin+%E2%80%A2+Compose+%E2%80%A2+Room;%3E+Zero-Telemetry+%E2%80%A2+High-Performance+%E2%80%A2+Offline-First;%3E+Terminal+Access+Granted+%E2%80%94+Welcome+to+the+Grid+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 
   <br/>
 
   <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00FF9D?style=for-the-badge&logo=matrix&logoColor=090D16" alt="Clearance"/>
-    <img src="https://img.shields.io/badge/NETWORK-AIR--GAPPED-00D4FF?style=for-the-badge&logo=linux&logoColor=white" alt="Environment"/>
-    <img src="https://img.shields.io/badge/PROTOCOL-ZERO--KNOWLEDGE-7928CA?style=for-the-badge&logo=shield&logoColor=white" alt="Protocol"/>
-    <img src="https://img.shields.io/badge/STATUS-ISOLATED%20%2F%2F%20ACTIVE-00FF9D?style=for-the-badge&logo=powershell&logoColor=black" alt="Status"/>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00FF9D?style=for-the-badge&logo=matrix&logoColor=090D16" alt="Clearance"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/ENV-AIR--GAPPED-00D4FF?style=for-the-badge&logo=linux&logoColor=white" alt="Environment"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILD-00FF9D?style=for-the-badge&logo=powershell&logoColor=black" alt="Status"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://komarev.com/ghpvc/?username=rmrashahriar&color=00ff9d&style=for-the-badge&label=TERMINAL%20VISITORS" alt="Visitor Counter" /></a>
   </p>
 
 </div>
@@ -22,7 +24,7 @@
 
 <!-- Animated Vector Cyber Terminal HUD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=3" width="100%" alt="Cyber Terminal HUD" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=4" width="100%" alt="Cyber Terminal HUD" />
 </div>
 
 <br/>
@@ -35,16 +37,18 @@
 <div align="center">
 
 <!-- Modern Interactive Tech Icons -->
-<img src="https://skillicons.dev/icons?i=kotlin,python,c,cpp,bash,linux,debian,docker,git,sqlite,vscode,neovim&theme=dark" alt="Tech Arsenal" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,c,cpp,bash,linux,debian,docker,git,github,sqlite,vscode,neovim&theme=dark" alt="Tech Arsenal" />
+</a>
 
 <br/><br/>
 
-| Domain | Enforcement | Capabilities & Stack |
+| Domain | Status | Capabilities & Weaponry |
 | :--- | :---: | :--- |
-| **🛡️ Defensive Systems** | `[ENFORCED]` | `Sandboxing & Isolation` • `Access Control Policies` • `Cryptographic Attestation` • `Kernel Hardening` • `Memory Safety` |
-| **⚡ Languages & Low-Level** | `[COMPILED]` | `C / C++` • `Kotlin` • `Python` • `Rust` • `Bash / Shell Scripting` • `SQL / SQLite` • `Assembly` |
-| **📱 Platform Architecture** | `[ACTIVE]` | `Clean Architecture` • `MVVM State Machines` • `Offline-First Storage` • `Asynchronous Concurrency` • `Custom Runtimes` |
-| **⚙️ Tooling & Infrastructure** | `[LOADED]` | `Linux Administration` • `Containerization & Docker` • `QEMU Virtualization` • `Deterministic Builds` • `Git Ops` |
+| **📱 Mobile Architecture** | `[LOADED]` | `Kotlin 2.3` • `Jetpack Compose` • `Material 3` • `Room SQLite` • `Hilt / Dagger` • `Coroutines & Flow` • `DataStore` • `Custom Motion & Haptics` |
+| **🛡️ Systems & Security** | `[ENFORCED]` | `Linux Internals` • `Defensive Engineering` • `Access Control & Sandboxing` • `Reverse Engineering` • `Cryptographic Attestation` • `Network Protocols` |
+| **⚡ Languages & Low-Level** | `[COMPILED]` | `Kotlin` • `Python 3.12` • `C / C++` • `Bash / Zsh` • `SQL / SQLite` • `Java` |
+| **⚙️ DevOps & Tooling** | `[ACTIVE]` | `Git / GitHub Actions` • `Docker` • `Virtualization & QEMU` • `Gradle / KTS` • `Linux Administration` • `CI/CD Pipelines` |
 
 </div>
 
@@ -53,39 +57,39 @@
 <!-- Animated Cyber Divider -->
 <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-### 🚀 `[ENGINEERING PRINCIPLES & DIRECTIVES]`
+### 🚀 `[FEATURED REPOSITORIES & MISSIONS]`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 High-Assurance Architecture
-**Zero-Trust System Foundations**
+### 📖 [QuranicWords](https://github.com/rmrashahriar/QuranicWords)
+**Production-Grade Gamified Arabic Vocabulary Engine**
 
-- 🛡️ **Default Deny Posture**: Software environments architected under continuous assumption of hostility.
-- 🔐 **Cryptographic Verification**: Cryptographic signatures, deterministic reproducibility, and state integrity at every boundary.
-- 🧱 **Strict Sandboxing**: Process separation, minimal capability allocation, and attack surface reduction.
-- 📐 **Rigorous Verification**: Comprehensive automated regression suites and static analysis gates.
+- 🌟 **4,709 Arabic Lemmas** taught across **10 Chapters**, **100 Sections**, **1,217 Lessons**, and **14,358 Exercises**, covering **59,888 occurrences (~80%+ of the Qur'an)**.
+- ⚡ **Cutting-Edge Android Tech**: Kotlin 2.3 + Jetpack Compose + Material 3 + Room DB + Hilt + Coroutines/Flow.
+- 🔒 **Absolute Privacy**: 100% offline-first, zero sign-in, zero cloud backend, zero network permissions.
+- 🧠 **Adaptive Intelligence**: Dynamic distractor generator, polysemy analysis (*Wujūh al-Qur'an*), and multi-modal testing suite.
 
 ```bash
-# Security Core Doctrine
-Harden  ·  Verify  ·  Encrypt  ·  Attest
+$ git clone https://github.com/rmrashahriar/QuranicWords.git
+$ ./gradlew :app:assembleRelease # 100% reproducible & offline
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Air-Gapped & Resilient Engineering
-**Autonomous, Cloud-Free Foundations**
+### 🛡️ Systems Engineering & Security Research
+**Resilient, High-Assurance Software Foundations**
 
-- 🌐 **Zero Cloud Dependencies**: Full operational capability completely disconnected from third-party networks.
-- 👁️ **Zero Telemetry Collection**: Complete client-side isolation with zero user tracking, profiling, or analytical beacons.
-- 💾 **High-Performance Local Runtimes**: Optimized storage serialization, relational databases, and fast indexing.
-- ⚙️ **Deterministic Builds**: Bit-for-bit reproducible artifacts with complete cryptographic lineage.
+- 🔐 **Hardened System Design**: Designing software that assumes hostility by default, enforcing strict principle of least privilege.
+- 🔍 **Defensive Analysis**: In-depth analysis of binaries, system calls, network telemetry, and memory safety.
+- 💻 **Offline-First Resilience**: Architectures designed to function seamlessly without dependence on cloud backends or external telemetry.
+- 📐 **Engineering Standards**: Deterministic builds, rigorous automated testing, and zero-compromise code quality.
 
 ```bash
-# Operational Standard
-100% Local  ·  Zero Leaks  ·  High Resilience
+# Core Philosophy
+Build Reliable  ·  Design Secure  ·  Protect Privacy
 ```
 
 </td>
@@ -97,10 +101,25 @@ Harden  ·  Verify  ·  Encrypt  ·  Attest
 <!-- Animated Cyber Divider -->
 <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-### 📊 `[SIMULATED CYBER TELEMETRY HUD]`
+### 📊 `[GITHUB TELEMETRY & ACTIVITY STATS]`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/telemetry.svg?v=1" width="100%" alt="System Telemetry" />
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/rmrashahriar">
+    <img src="https://streak-stats.demolab.com/?user=rmrashahriar&theme=dark&background=0D1117&border=00FF9D&stroke=00FF9D&ring=00D4FF&fire=00FF9D&currStreakNum=00FF9D&sideNums=00D4FF&currStreakLabel=00FF9D&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Stats & Top Languages Side by Side -->
+  <a href="https://github.com/rmrashahriar">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rmrashahriar&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=E6EDF3&icon_color=00D4FF&border_color=00FF9D&hide_border=false" width="49%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rmrashahriar">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rmrashahriar&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=E6EDF3&border_color=00FF9D&hide_border=false" width="47%" alt="Top Languages" />
+  </a>
+
 </div>
 
 <br/>
@@ -108,20 +127,39 @@ Harden  ·  Verify  ·  Encrypt  ·  Attest
 <!-- Animated Cyber Divider -->
 <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-### 📡 `[ENCRYPTED PROTOCOL CHANNELS]`
+### 🐍 `[CONTRIBUTION MATRIX PROTOCOL]`
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/CHANNEL-AIR--GAPPED-00FF9D?style=for-the-badge&logo=shield&logoColor=090D16" alt="Channel" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+</div>
+
+<br/>
+
+<!-- Animated Cyber Divider -->
+<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
+
+### 📡 `[PUBLIC MAINFRAME CHANNELS]`
+
+<div align="center">
+
+  <a href="https://github.com/rmrashahriar">
+    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-00D4FF?style=for-the-badge&logo=github&logoColor=090D16" alt="GitHub" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-SECURE%20ENDPOINT-00D4FF?style=for-the-badge&logo=matrix&logoColor=090D16" alt="Endpoint" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ENCRYPTION-POST--QUANTUM-7928CA?style=for-the-badge&logo=key&logoColor=white" alt="Encryption" />
+  <a href="https://github.com/rmrashahriar/QuranicWords">
+    <img src="https://img.shields.io/badge/FLAGSHIP_REPO-QuranicWords-FFB000?style=for-the-badge&logo=android&logoColor=090D16" alt="QuranicWords" />
+  </a>
 
   <br/><br/>
 
   ```bash
-  echo "True security operates in silence."
+  echo "Simplicity is prerequisite for reliability. Security is an architectural discipline."
   ```
 
   <!-- Cyber Animated Footer Wave -->

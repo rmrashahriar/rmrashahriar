@@ -13,8 +13,8 @@
       </stop>
     </linearGradient>
 
-    <!-- Neon Title Gradient -->
-    <linearGradient id="neonTitleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Neon RAFI Gradient -->
+    <linearGradient id="neonRafiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00FF9D" />
       <stop offset="50%" stop-color="#00D4FF" />
       <stop offset="100%" stop-color="#BD93F9" />
@@ -23,7 +23,7 @@
     <!-- Scanline Laser Gradient -->
     <linearGradient id="laserGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#00FF9D" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00FF9D" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#00FF9D" stop-opacity="0.3" />
       <stop offset="100%" stop-color="#00D4FF" stop-opacity="0" />
     </linearGradient>
 
@@ -74,26 +74,26 @@
   <circle cx="56" cy="20" r="5.5" fill="#27C93F" />
 
   <!-- Terminal Window Title -->
-  <text x="425" y="24" text-anchor="middle" class="term-title">root@security-core: ~/isolated-environment (zsh)</text>
+  <text x="425" y="24" text-anchor="middle" class="term-title">root@security-core: ~/rmrashahriar (zsh)</text>
 
   <!-- Live Status Badges on right side of title -->
   <g transform="translate(710, 14)">
     <circle cx="6" cy="6" r="3.5" fill="#00FF9D" class="brand-glow" />
-    <text x="16" y="9" font-family="'Fira Code', monospace" font-size="10" fill="#00FF9D" font-weight="bold">ENCRYPTED</text>
+    <text x="16" y="9" font-family="'Fira Code', monospace" font-size="10" fill="#00FF9D" font-weight="bold">ONLINE</text>
   </g>
 
   <!-- Terminal Body Content -->
   <!-- Prompt line -->
   <g transform="translate(26, 68)" class="mono hud-line">
-    <text x="0" y="0" fill="#00D4FF" font-weight="bold">┌──(root㉿air-gapped)</text><text x="180" y="0" fill="#8B949E">-[</text><text x="190" y="0" fill="#FF79C6">~/mainframe</text><text x="290" y="0" fill="#8B949E">]</text>
+    <text x="0" y="0" fill="#00D4FF" font-weight="bold">┌──(operator㉿security)</text><text x="195" y="0" fill="#8B949E">-[</text><text x="206" y="0" fill="#FF79C6">~/rmrashahriar</text><text x="325" y="0" fill="#8B949E">]</text>
     <text x="0" y="24" fill="#00D4FF" font-weight="bold">└─#</text>
-    <text x="30" y="24" fill="#E6EDF3">sysctl --inspect-hardened-runtime --all</text>
+    <text x="30" y="24" fill="#E6EDF3">fastfetch --cyber-profile --verbose</text>
   </g>
 
   <!-- Content Grid: Left Badge + Right Specs -->
   <g transform="translate(26, 120)" class="mono">
     
-    <!-- Generic Cyber Vector Monogram Badge -->
+    <!-- Laser-Straight Vector Cyber RAFI Monogram Badge -->
     <g transform="translate(0, 0)" class="brand-glow">
       <!-- Cyber Corner Brackets -->
       <path d="M 0 20 L 0 4 L 20 4" stroke="#00FF9D" stroke-width="2.5" fill="none" />
@@ -107,48 +107,48 @@
       <!-- Scanline inside badge -->
       <line x1="16" y1="24" x2="214" y2="24" stroke="#00FF9D" stroke-width="0.75" stroke-opacity="0.4" stroke-dasharray="4,2" />
       
-      <!-- Generic High-Tech Core Title -->
-      <text x="115" y="72" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Fira Code', sans-serif" font-size="34" font-weight="900" fill="url(#neonTitleGrad)" letter-spacing="6" filter="url(#glow)">CORE</text>
+      <!-- Unbreakable Glowing Laser-Straight RAFI Typography -->
+      <text x="115" y="72" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Fira Code', sans-serif" font-size="46" font-weight="900" fill="url(#neonRafiGrad)" letter-spacing="6" filter="url(#glow)">RAFI</text>
       
       <!-- Sub-label -->
-      <text x="115" y="100" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#00D4FF" letter-spacing="4" font-weight="bold">◈ AIR-GAPPED ◈</text>
+      <text x="115" y="100" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#00D4FF" letter-spacing="4" font-weight="bold">◈ ARCHITECT ◈</text>
     </g>
 
     <!-- Vertical Divider -->
     <line x1="260" y1="4" x2="260" y2="150" stroke="#21262D" stroke-width="1.5" stroke-dasharray="3,3" />
 
-    <!-- System Specs Table (100% Generic & High-Assurance) -->
+    <!-- System Specs Table -->
     <g transform="translate(285, 14)" font-size="12.5">
-      <text x="0" y="0" fill="#8B949E">IDENTITY:</text>
-      <text x="140" y="0" fill="#00FF9D" font-weight="bold">OPERATOR <tspan fill="#8B949E">[LEVEL-5 CLEARANCE]</tspan></text>
+      <text x="0" y="0" fill="#8B949E">IDENTIFIER:</text>
+      <text x="140" y="0" fill="#00FF9D" font-weight="bold">RAFI <tspan fill="#8B949E">(@rmrashahriar)</tspan></text>
 
-      <text x="0" y="24" fill="#8B949E">DOMAIN:</text>
-      <text x="140" y="24" fill="#E6EDF3">Systems Engineering &amp; Defensive Security</text>
+      <text x="0" y="24" fill="#8B949E">ROLE / FOCUS:</text>
+      <text x="140" y="24" fill="#E6EDF3">Software Engineer &amp; Security Researcher</text>
 
-      <text x="0" y="48" fill="#8B949E">ARCHITECTURE:</text>
-      <text x="140" y="48" fill="#00D4FF">High-Assurance • Microkernel • Sandboxed</text>
+      <text x="0" y="48" fill="#8B949E">CORE EXPERTISE:</text>
+      <text x="140" y="48" fill="#00D4FF">Android Architecture • Low-Level Systems</text>
 
-      <text x="0" y="72" fill="#8B949E">ARSENAL:</text>
-      <text x="140" y="72" fill="#FFB86C">Kotlin • C/C++ • Python • Rust • Linux CLI</text>
+      <text x="0" y="72" fill="#8B949E">PRIMARY ARSENAL:</text>
+      <text x="140" y="72" fill="#FFB86C">Kotlin • Compose • Room • Python • C/C++</text>
 
-      <text x="0" y="96" fill="#8B949E">THREAT MODEL:</text>
-      <text x="140" y="96" fill="#50FA7B">Zero-Trust • Zero-Telemetry • Offline-First</text>
+      <text x="0" y="96" fill="#8B949E">FLAGSHIP REPO:</text>
+      <text x="140" y="96" fill="#50FA7B">QuranicWords <tspan fill="#BD93F9">[v1.0.0 • Offline-First • Room DB]</tspan></text>
 
-      <text x="0" y="120" fill="#8B949E">DOCTRINE:</text>
-      <text x="140" y="120" fill="#FF79C6">Harden  ·  Verify  ·  Encrypt  ·  Attest</text>
+      <text x="0" y="120" fill="#8B949E">SECURITY ETHOS:</text>
+      <text x="140" y="120" fill="#FF79C6">Zero Telemetry • Cryptographic Integrity • Privacy</text>
 
-      <text x="0" y="144" fill="#8B949E">STATUS:</text>
-      <text x="140" y="144" fill="#00FF9D">ISOLATED // ALL PERIMETERS SECURED</text>
+      <text x="0" y="144" fill="#8B949E">SYSTEM STATUS:</text>
+      <text x="140" y="144" fill="#00FF9D">100% OPERATIONAL // ALL CIRCUITS ARMED</text>
       <rect x="445" y="134" width="8" height="13" class="cursor" />
     </g>
   </g>
 
   <!-- Bottom Terminal Decorative Status Line -->
   <g transform="translate(26, 334)" class="mono" font-size="11">
-    <text x="0" y="0" fill="#58A6FF">⚡ MEMORY: 64GB DDR5 (ECC)</text>
-    <text x="220" y="0" fill="#7EE787">🛡️ SANDBOX: RESTRICTED</text>
-    <text x="430" y="0" fill="#D2A8FF">🔒 ENCRYPTION: POST-QUANTUM</text>
-    <text x="660" y="0" fill="#FF7B72">● ATTACK SURFACE: ZERO</text>
+    <text x="0" y="0" fill="#58A6FF">⚡ REPOS: PUBLIC</text>
+    <text x="190" y="0" fill="#7EE787">🛡️ SANDBOX: STRICT</text>
+    <text x="380" y="0" fill="#D2A8FF">🔒 ENCRYPTION: AES-256-GCM</text>
+    <text x="640" y="0" fill="#FF7B72">● ATTACK SURFACE: MINIMAL</text>
   </g>
 
   <!-- Scanning Laser Overlay -->
