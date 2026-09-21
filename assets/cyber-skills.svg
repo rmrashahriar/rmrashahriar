@@ -79,11 +79,11 @@
     <rect x="0" y="134" width="850" height="9" rx="3" fill="#0C1A16" />
     <rect x="0" y="134" width="807" height="9" rx="3" fill="url(#barGrad2)" class="pulse-meter" />
 
-    <!-- Skill 5: Linux Internals -->
-    <text x="0" y="168" class="mono-lbl">🛡️ LINUX INTERNALS &amp; DEFENSIVE SECURITY <tspan fill="#64748B" font-weight="normal">(C/C++ · SELinux · Sandboxing · Kernel · Network Analysis)</tspan></text>
-    <text x="850" y="168" text-anchor="end" class="mono-pct" fill="#00FF9D">92% [ROOTED]</text>
+    <!-- Skill 5: Linux Passionate & Systems -->
+    <text x="0" y="168" class="mono-lbl">🐧 LINUX PASSIONATE &amp; SYSTEMS HARDENING <tspan fill="#64748B" font-weight="normal">(Kernel Internals · Shellcraft · C/C++ · SELinux · POSIX)</tspan></text>
+    <text x="850" y="168" text-anchor="end" class="mono-pct" fill="#00FF9D">95% [ROOTED]</text>
     <rect x="0" y="176" width="850" height="9" rx="3" fill="#0C1A16" />
-    <rect x="0" y="176" width="782" height="9" rx="3" fill="url(#barGrad1)" class="pulse-meter" />
+    <rect x="0" y="176" width="807" height="9" rx="3" fill="url(#barGrad1)" class="pulse-meter" />
 
   </g>
 </svg>

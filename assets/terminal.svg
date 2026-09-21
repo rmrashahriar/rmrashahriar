@@ -129,7 +129,7 @@
       <text x="140" y="48" fill="#00FF9D">Python 3.12 <tspan fill="#64748B">(Exploit Dev &amp; Automation)</tspan></text>
 
       <text x="0" y="72" fill="#64748B">LINUX PASSION:</text>
-      <text x="140" y="72" fill="#00FF9D" font-weight="bold">Passionate Linux Enthusiast <tspan fill="#64748B">• Kernel • POSIX</tspan></text>
+      <text x="140" y="72" fill="#00FF9D" font-weight="bold">Linux Passionate <tspan fill="#64748B">• Kernel • POSIX • Hardening</tspan></text>
 
       <text x="0" y="96" fill="#64748B">REVERSE ENG:</text>
       <text x="140" y="96" fill="#00E5FF">Binary Exploitation • Ghidra • Frida • GDB</text>
@@ -145,7 +145,7 @@
 
   <!-- Bottom Terminal Decorative Status Line -->
   <g transform="translate(26, 334)" class="mono" font-size="11">
-    <text x="0" y="0" fill="#00FF9D">🐧 LINUX: PASSIONATE ENTHUSIAST</text>
+    <text x="0" y="0" fill="#00FF9D">🐧 LINUX PASSIONATE</text>
     <text x="240" y="0" fill="#00E5FF">🛡️ PENTESTING: ENGAGED</text>
     <text x="460" y="0" fill="#00FF9D">⚡ PYTHON: EXPLOIT DEV</text>
     <text x="680" y="0" fill="#00E5FF">● AIR-GAPPED: 100%</text>
