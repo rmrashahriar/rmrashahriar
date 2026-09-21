@@ -1,20 +1,22 @@
 <!--
   SEO & Crawler Metadata:
-  Name: RAFI (@rmrashahriar)
+  Username: rmrashahriar
+  Name: RAFI
+  GitHub: https://github.com/rmrashahriar
   Role: Cybersecurity Researcher, Penetration Tester & Python Security Engineer
-  Keywords: Cybersecurity, Penetration Testing, Ethical Hacking, Python Exploit Development, Reverse Engineering, Binary Exploitation, Android Security, Mobile AppSec, Red Teaming, Linux Internals, Network Security
+  Search Keywords: rmrashahriar, rmrashahriar github, rafi rmrashahriar, Cybersecurity, Penetration Testing, Ethical Hacking, Python Exploit Development, Reverse Engineering, Binary Exploitation, Android Security, Mobile AppSec, Red Teaming, Linux Internals, Network Security
 -->
 
 <div align="center">
 
   <!-- Animated Top Cyber Wave Banner (Matrix Green Theme) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080e,40:0a2018,100:00ff9d&height=180&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20CYBERSECURITY%20%E2%80%A2%20PENETRATION%20TESTING%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI Cybersecurity and Penetration Testing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080e,40:0a2018,100:00ff9d&height=180&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20CYBERSECURITY%20%E2%80%A2%20PENETRATION%20TESTING%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI rmrashahriar Cybersecurity and Penetration Testing" />
 
   <br/><br/>
 
   <!-- Accessible SEO Semantic Heading -->
-  <h1 align="center">RAFI // CYBERSECURITY RESEARCHER &amp; PENETRATION TESTER</h1>
-  <p align="center"><i>Offensive Security • Python Exploit Tooling &amp; Automation • Reverse Engineering • Android &amp; System AppSec</i></p>
+  <h1 align="center">RAFI (@rmrashahriar) // CYBERSECURITY RESEARCHER &amp; PENETRATION TESTER</h1>
+  <p align="center"><b>@rmrashahriar</b> • <i>Offensive Security • Python Exploit Tooling &amp; Automation • Reverse Engineering • Android &amp; System AppSec</i></p>
 
   <!-- Bespoke Animated Vector Cyber Header Banner -->
   <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header.svg" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester &amp; Python Exploit Engineer Hero Banner" />
@@ -164,7 +166,7 @@ Decompile  ·  Hook (Frida)  ·  Analyze  ·  Patch
 
   <!-- SEO Indexing Keywords Footer -->
   <p align="center">
-    <sub><b>Focus Domains:</b> Cybersecurity · Penetration Testing · Ethical Hacking · Python Exploit Development · Reverse Engineering · Binary Exploitation · Android Security · Mobile AppSec · Red Teaming · Linux Internals</sub>
+    <sub><b>GitHub Profile:</b> <a href="https://github.com/rmrashahriar">@rmrashahriar</a> (RAFI) | <b>Search Queries:</b> rmrashahriar · Cybersecurity · Penetration Testing · Ethical Hacking · Python Exploit Development · Reverse Engineering · Binary Exploitation · Android Security · Mobile AppSec · Red Teaming · Linux Internals</sub>
   </p>
 
   <!-- Cyber Animated Footer Wave (Matrix Green Theme) -->
