@@ -16,7 +16,7 @@
 
   <!-- Official Cyber Spartan Emblem with Phosphor Matrix Glow -->
   <a href="https://github.com/rmrashahriar">
-    <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/RMRASHAHRIAR.png?v=11" width="160" height="160" alt="RAFI Official Spartan Cyber Security Emblem (@rmrashahriar)" style="border-radius: 50%; filter: drop-shadow(0 0 24px rgba(0, 255, 157, 0.75));" />
+    <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/emblem.png" width="160" height="160" alt="RAFI Official Spartan Cyber Security Emblem (@rmrashahriar)" style="border-radius: 50%; filter: drop-shadow(0 0 24px rgba(0, 255, 157, 0.75));" />
   </a>
 
   <br/><br/>
@@ -26,7 +26,7 @@
   <p align="center"><b>@rmrashahriar</b> • <i>Linux Passionate 🐧 • Penetration Testing &amp; Cybersecurity • Python Exploit Tooling • Reverse Engineering • Systems Hardening</i></p>
 
   <!-- Bespoke Animated Vector Cyber Header Banner -->
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header.svg?v=11" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester, Linux Passionate &amp; Python Exploit Engineer Hero Banner" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header-v2.svg" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester, Linux Passionate &amp; Python Exploit Engineer Hero Banner" />
 
   <br/><br/>
 
@@ -52,7 +52,7 @@
 
 <!-- Animated Vector Cyber Terminal HUD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=11" width="100%" alt="Cyber Terminal HUD - Penetration Testing &amp; Python Exploit Dev Console" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal-v2.svg" width="100%" alt="Cyber Terminal HUD - Penetration Testing &amp; Python Exploit Dev Console" />
 </div>
 
 <br/>
