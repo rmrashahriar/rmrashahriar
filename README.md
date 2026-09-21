@@ -1,28 +1,9 @@
-<!-- SEO & Search Engine Structured Data (JSON-LD) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "RAFI",
-  "alternateName": "rmrashahriar",
-  "url": "https://github.com/rmrashahriar",
-  "jobTitle": "Software Engineer & Systems Security Researcher",
-  "description": "Software Engineer, Android Architect, and Systems Security Researcher specializing in Kotlin, Jetpack Compose, Room DB, offline-first architectures, and low-level Linux systems.",
-  "knowsAbout": [
-    "Android Development",
-    "Kotlin",
-    "Jetpack Compose",
-    "Clean Architecture",
-    "Room SQLite",
-    "Offline-First Design",
-    "Systems Security",
-    "Linux Internals",
-    "Defensive Engineering",
-    "Python",
-    "C/C++"
-  ]
-}
-</script>
+<!--
+  SEO & Crawler Metadata:
+  Name: RAFI (@rmrashahriar)
+  Role: Software Engineer, Android Architect & Systems Security Researcher
+  Keywords: Android Development, Kotlin, Jetpack Compose, Room SQLite, Offline-First, Clean Architecture, Systems Security, Linux Internals, Defensive Engineering, Python, C/C++
+-->
 
 <div align="center">
 
