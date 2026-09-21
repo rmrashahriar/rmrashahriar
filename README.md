@@ -168,16 +168,6 @@ if __name__ == "__main__":
     <img src="https://streak-stats.demolab.com/?user=rmrashahriar&theme=dark&background=05090F&border=00FF9D&stroke=00FF9D&ring=00E5FF&fire=00FF9D&currStreakNum=00FF9D&sideNums=00E5FF&currStreakLabel=00FF9D&sideLabels=64748B&dates=64748B" alt="RAFI GitHub Commit Streak Statistics" />
   </a>
 
-  <br/><br/>
-
-  <!-- GitHub Stats & Top Languages Side by Side (Matrix Green & Cyan) -->
-  <a href="https://github.com/rmrashahriar">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=rmrashahriar&show_icons=true&theme=dark&bg_color=05090F&title_color=00FF9D&text_color=E6EDF3&icon_color=00E5FF&border_color=00FF9D&hide_border=false" width="49%" alt="RAFI GitHub Profile Overview - Total Commits, Pull Requests, Stars" />
-  </a>
-  <a href="https://github.com/rmrashahriar">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rmrashahriar&layout=compact&theme=dark&bg_color=05090F&title_color=00FF9D&text_color=E6EDF3&border_color=00FF9D&hide_border=false" width="47%" alt="Top Programming Languages - Python, Kotlin, C++, Shell" />
-  </a>
-
 </div>
 
 <br/>
