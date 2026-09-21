@@ -115,50 +115,6 @@ Decompile  ·  Hook (Frida)  ·  Analyze  ·  Patch
 <!-- Animated Cyber Divider -->
 <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Section Divider" />
 
-### 🚀 `[FEATURED ENGINEERING ARTIFACTS]`
-
-<div align="center">
-  <!-- Holographic Repo Showcase Card -->
-  <a href="https://github.com/rmrashahriar/QuranicWords">
-    <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/repo-showcase.svg" width="100%" alt="QuranicWords Android App - Production Grade Offline Engine with Clean Architecture" />
-  </a>
-</div>
-
-<br/>
-
-<details>
-<summary><b>⚡ [CYBERSECURITY TOOLCHAIN &amp; AUDIT METHODOLOGY // CLICK TO EXPAND]</b></summary>
-<br/>
-
-```python
-#!/usr/bin/env python3
-"""
-[+] Core Engagement Toolchain: Python Security Automation
-[+] Focus: Reconnaissance, Automated Fuzzing & Static/Dynamic Triage
-"""
-class SecurityAuditor:
-    def __init__(self, target):
-        self.target = target
-        self.modules = ["Network Recon", "Binary Reverse", "Android AppSec", "PrivEsc Audit"]
-
-    def execute_audit(self):
-        print(f"[*] Initializing comprehensive assessment on: {self.target}")
-        for mod in self.modules:
-            print(f"[+] Launching module: {mod} -> [VERIFIED]")
-        return {"status": "ENGAGEMENT COMPLETE", "posture": "HARDENED"}
-
-if __name__ == "__main__":
-    auditor = SecurityAuditor("TARGET_PERIMETER")
-    auditor.execute_audit()
-```
-
-</details>
-
-<br/>
-
-<!-- Animated Cyber Divider -->
-<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Section Divider" />
-
 ### 📊 `[GITHUB TELEMETRY & ACTIVITY STATS]`
 
 <div align="center">
@@ -197,11 +153,7 @@ if __name__ == "__main__":
 <div align="center">
 
   <a href="https://github.com/rmrashahriar">
-    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-05090F?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A2228" alt="GitHub Profile for rmrashahriar" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rmrashahriar/QuranicWords">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE_BUILD-QuranicWords-05090F?style=for-the-badge&logo=android&logoColor=00FF9D&labelColor=162E25" alt="QuranicWords Flagship Open Source Android Repository" />
+    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-05090F?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=162E25" alt="GitHub Profile for rmrashahriar" />
   </a>
 
   <br/><br/>
