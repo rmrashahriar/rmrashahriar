@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
   <defs>
-    <!-- Dynamic Shifting Border Gradient -->
+    <!-- Dynamic Shifting Border Gradient (Neon Green & Cyan) -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF0055">
-        <animate attributeName="stop-color" values="#FF0055;#00FF9D;#00D4FF;#FF0055" dur="6s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#00FF9D">
+        <animate attributeName="stop-color" values="#00FF9D;#00E5FF;#00FF66;#00FF9D" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="50%" stop-color="#00FF9D">
-        <animate attributeName="stop-color" values="#00FF9D;#00D4FF;#FF0055;#00FF9D" dur="6s" repeatCount="indefinite" />
+      <stop offset="50%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#00FF66;#00FF9D;#00E5FF" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#00D4FF">
-        <animate attributeName="stop-color" values="#00D4FF;#FF0055;#00FF9D;#00D4FF" dur="6s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#00FF66">
+        <animate attributeName="stop-color" values="#00FF66;#00FF9D;#00E5FF;#00FF66" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
     <!-- Neon RAFI Gradient -->
     <linearGradient id="neonRafiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00FF9D" />
-      <stop offset="50%" stop-color="#00D4FF" />
-      <stop offset="100%" stop-color="#FF0055" />
+      <stop offset="50%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#00FF9D" />
     </linearGradient>
 
     <!-- Scanline Laser Gradient -->
     <linearGradient id="laserGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FF0055" stop-opacity="0" />
-      <stop offset="50%" stop-color="#FF0055" stop-opacity="0.35" />
-      <stop offset="100%" stop-color="#00FF9D" stop-opacity="0" />
+      <stop offset="0%" stop-color="#00FF9D" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00FF9D" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0" />
     </linearGradient>
 
     <!-- Glow Filter -->
@@ -38,20 +38,20 @@
 
     <!-- Subtle Grid Pattern -->
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#161B22" />
+      <circle cx="2" cy="2" r="1" fill="#0E231C" />
     </pattern>
   </defs>
 
   <style>
     @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
     @keyframes scan { 0% { transform: translateY(-40px); } 100% { transform: translateY(370px); } }
-    @keyframes pulseGlow { 0%, 100% { filter: drop-shadow(0 0 5px #00FF9D); } 50% { filter: drop-shadow(0 0 12px #FF0055); } }
+    @keyframes pulseGlow { 0%, 100% { filter: drop-shadow(0 0 5px #00FF9D); } 50% { filter: drop-shadow(0 0 12px #00E5FF); } }
 
-    .terminal-bg { fill: #080C14; }
-    .terminal-header { fill: #0D121F; }
+    .terminal-bg { fill: #05090F; }
+    .terminal-header { fill: #08121A; }
     .term-title { font-family: 'Fira Code', monospace, 'Courier New'; font-size: 12px; fill: #8B949E; }
     .mono { font-family: 'Fira Code', monospace, 'Courier New'; }
-    .cursor { animation: blink 0.85s infinite; fill: #FF0055; }
+    .cursor { animation: blink 0.85s infinite; fill: #00FF9D; }
     .scanner { animation: scan 3.5s linear infinite; }
     .brand-glow { animation: pulseGlow 4s ease-in-out infinite; }
     .hud-line { font-size: 13px; }
@@ -66,27 +66,27 @@
 
   <!-- Terminal Header Bar -->
   <path d="M4 14 Q4 4 14 4 L836 4 Q846 4 846 14 L846 36 L4 36 Z" class="terminal-header" />
-  <line x1="4" y1="36" x2="846" y2="36" stroke="#1F2937" stroke-width="1" />
+  <line x1="4" y1="36" x2="846" y2="36" stroke="#162E25" stroke-width="1" />
 
-  <!-- Window Dots (macOS/Linux style) -->
+  <!-- Window Dots (Terminal style: Green focus) -->
   <circle cx="22" cy="20" r="5.5" fill="#FF5F56" />
   <circle cx="39" cy="20" r="5.5" fill="#FFBD2E" />
-  <circle cx="56" cy="20" r="5.5" fill="#27C93F" />
+  <circle cx="56" cy="20" r="5.5" fill="#00FF9D" />
 
   <!-- Terminal Window Title -->
   <text x="425" y="24" text-anchor="middle" class="term-title">root@kali-security: ~/cyber-operations (zsh)</text>
 
   <!-- Live Status Badges on right side of title -->
   <g transform="translate(710, 14)">
-    <circle cx="6" cy="6" r="3.5" fill="#FF0055" class="brand-glow" />
-    <text x="16" y="9" font-family="'Fira Code', monospace" font-size="10" fill="#FF0055" font-weight="bold">RED TEAM</text>
+    <circle cx="6" cy="6" r="3.5" fill="#00FF9D" class="brand-glow" />
+    <text x="16" y="9" font-family="'Fira Code', monospace" font-size="10" fill="#00FF9D" font-weight="bold">ACTIVE</text>
   </g>
 
   <!-- Terminal Body Content -->
   <!-- Prompt line: Python offensive command -->
   <g transform="translate(26, 68)" class="mono hud-line">
-    <text x="0" y="0" fill="#FF0055" font-weight="bold">┌──(root㉿kali-range)</text><text x="180" y="0" fill="#8B949E">-[</text><text x="190" y="0" fill="#00FF9D">~/cyber-ops/payloads</text><text x="365" y="0" fill="#8B949E">]</text>
-    <text x="0" y="24" fill="#FF0055" font-weight="bold">└─#</text>
+    <text x="0" y="0" fill="#00FF9D" font-weight="bold">┌──(root㉿kali-range)</text><text x="180" y="0" fill="#64748B">-[</text><text x="190" y="0" fill="#00E5FF">~/cyber-ops/payloads</text><text x="365" y="0" fill="#64748B">]</text>
+    <text x="0" y="24" fill="#00FF9D" font-weight="bold">└─#</text>
     <text x="30" y="24" fill="#E6EDF3">python3 -m exploit_toolchain.core --mode pentest --target all</text>
   </g>
 
@@ -96,59 +96,59 @@
     <!-- Laser-Straight Vector Cyber RAFI Monogram Badge -->
     <g transform="translate(0, 0)" class="brand-glow">
       <!-- Cyber Corner Brackets -->
-      <path d="M 0 20 L 0 4 L 20 4" stroke="#FF0055" stroke-width="2.5" fill="none" />
-      <path d="M 230 20 L 230 4 L 210 4" stroke="#FF0055" stroke-width="2.5" fill="none" />
-      <path d="M 0 115 L 0 131 L 20 131" stroke="#00FF9D" stroke-width="2.5" fill="none" />
-      <path d="M 230 115 L 230 131 L 210 131" stroke="#00FF9D" stroke-width="2.5" fill="none" />
+      <path d="M 0 20 L 0 4 L 20 4" stroke="#00FF9D" stroke-width="2.5" fill="none" />
+      <path d="M 230 20 L 230 4 L 210 4" stroke="#00FF9D" stroke-width="2.5" fill="none" />
+      <path d="M 0 115 L 0 131 L 20 131" stroke="#00E5FF" stroke-width="2.5" fill="none" />
+      <path d="M 230 115 L 230 131 L 210 131" stroke="#00E5FF" stroke-width="2.5" fill="none" />
       
       <!-- Inner HUD Panel -->
-      <rect x="8" y="12" width="214" height="111" rx="8" fill="#0D121F" stroke="#21262D" stroke-width="1.5" />
+      <rect x="8" y="12" width="214" height="111" rx="8" fill="#071217" stroke="#162E25" stroke-width="1.5" />
       
       <!-- Scanline inside badge -->
-      <line x1="16" y1="24" x2="214" y2="24" stroke="#FF0055" stroke-width="0.75" stroke-opacity="0.4" stroke-dasharray="4,2" />
+      <line x1="16" y1="24" x2="214" y2="24" stroke="#00FF9D" stroke-width="0.75" stroke-opacity="0.4" stroke-dasharray="4,2" />
       
       <!-- Unbreakable Glowing Laser-Straight RAFI Typography -->
       <text x="115" y="72" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Fira Code', sans-serif" font-size="46" font-weight="900" fill="url(#neonRafiGrad)" letter-spacing="6" filter="url(#glow)">RAFI</text>
       
       <!-- Sub-label -->
-      <text x="115" y="100" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#FF0055" letter-spacing="4" font-weight="bold">◈ PENTESTER ◈</text>
+      <text x="115" y="100" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#00E5FF" letter-spacing="4" font-weight="bold">◈ HACKER ◈</text>
     </g>
 
     <!-- Vertical Divider -->
-    <line x1="260" y1="4" x2="260" y2="150" stroke="#21262D" stroke-width="1.5" stroke-dasharray="3,3" />
+    <line x1="260" y1="4" x2="260" y2="150" stroke="#162E25" stroke-width="1.5" stroke-dasharray="3,3" />
 
     <!-- System Specs Table (Cybersecurity, Pentesting & Python Focus) -->
     <g transform="translate(285, 14)" font-size="12.5">
-      <text x="0" y="0" fill="#8B949E">OPERATOR:</text>
-      <text x="140" y="0" fill="#00FF9D" font-weight="bold">RAFI <tspan fill="#8B949E">(@rmrashahriar)</tspan></text>
+      <text x="0" y="0" fill="#64748B">OPERATOR:</text>
+      <text x="140" y="0" fill="#00FF9D" font-weight="bold">RAFI <tspan fill="#64748B">(@rmrashahriar)</tspan></text>
 
-      <text x="0" y="24" fill="#8B949E">ROLE / FOCUS:</text>
-      <text x="140" y="24" fill="#FF0055" font-weight="bold">Cybersecurity Researcher &amp; Penetration Tester</text>
+      <text x="0" y="24" fill="#64748B">ROLE / FOCUS:</text>
+      <text x="140" y="24" fill="#00E5FF" font-weight="bold">Cybersecurity Researcher &amp; Penetration Tester</text>
 
-      <text x="0" y="48" fill="#8B949E">PRIMARY WEAPON:</text>
-      <text x="140" y="48" fill="#00D4FF">Python 3.12 <tspan fill="#8B949E">(Exploit Tooling &amp; Automation)</tspan></text>
+      <text x="0" y="48" fill="#64748B">PRIMARY WEAPON:</text>
+      <text x="140" y="48" fill="#00FF9D">Python 3.12 <tspan fill="#64748B">(Exploit Dev &amp; Automation)</tspan></text>
 
-      <text x="0" y="72" fill="#8B949E">SECURITY OPS:</text>
-      <text x="140" y="72" fill="#FFB86C">Penetration Testing • Network Auditing • CTF</text>
+      <text x="0" y="72" fill="#64748B">SECURITY OPS:</text>
+      <text x="140" y="72" fill="#E6EDF3">Penetration Testing • Network Auditing • CTFs</text>
 
-      <text x="0" y="96" fill="#8B949E">REVERSE ENG:</text>
-      <text x="140" y="96" fill="#BD93F9">Binary Exploitation • Ghidra • Frida • GDB</text>
+      <text x="0" y="96" fill="#64748B">REVERSE ENG:</text>
+      <text x="140" y="96" fill="#00E5FF">Binary Exploitation • Ghidra • Frida • GDB</text>
 
-      <text x="0" y="120" fill="#8B949E">MOBILE APPSEC:</text>
-      <text x="140" y="120" fill="#50FA7B">Android Security • APK Decompilation • MobSF</text>
+      <text x="0" y="120" fill="#64748B">MOBILE APPSEC:</text>
+      <text x="140" y="120" fill="#00FF9D">Android Security • APK Decompilation • MobSF</text>
 
-      <text x="0" y="144" fill="#8B949E">AUDIT STATUS:</text>
-      <text x="140" y="144" fill="#00FF9D">EXPLOIT SUITE LOADED // PERIMETER PENETRATED</text>
+      <text x="0" y="144" fill="#64748B">AUDIT STATUS:</text>
+      <text x="140" y="144" fill="#00FF9D">EXPLOIT SUITE LOADED // PERIMETER SECURED</text>
       <rect x="475" y="134" width="8" height="13" class="cursor" />
     </g>
   </g>
 
   <!-- Bottom Terminal Decorative Status Line -->
   <g transform="translate(26, 334)" class="mono" font-size="11">
-    <text x="0" y="0" fill="#FF0055">⚡ EXPLOIT DEV: ACTIVE</text>
-    <text x="210" y="0" fill="#00FF9D">🛡️ PENTESTING: ENGAGED</text>
-    <text x="420" y="0" fill="#00D4FF">🔍 REVERSE ENG: GHIDRA/FRIDA</text>
-    <text x="660" y="0" fill="#FFB86C">● PAYLOAD: ZERO-DAY</text>
+    <text x="0" y="0" fill="#00FF9D">⚡ EXPLOIT DEV: ACTIVE</text>
+    <text x="210" y="0" fill="#00E5FF">🛡️ PENTESTING: ENGAGED</text>
+    <text x="420" y="0" fill="#00FF9D">🔍 REVERSE ENG: GHIDRA/FRIDA</text>
+    <text x="660" y="0" fill="#00E5FF">● AIR-GAPPED: 100%</text>
   </g>
 
   <!-- Scanning Laser Overlay -->

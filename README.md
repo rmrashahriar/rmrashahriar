@@ -7,8 +7,8 @@
 
 <div align="center">
 
-  <!-- Animated Top Cyber Wave Banner (Matching Footer Wave) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:200d16,100:ff0055&height=180&section=header&text=RAFI&fontSize=50&fontColor=FF0055&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20PENETRATION%20TESTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI Cybersecurity and Penetration Testing" />
+  <!-- Animated Top Cyber Wave Banner (Matrix Green Theme) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080e,40:0a2018,100:00ff9d&height=180&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20CYBERSECURITY%20%E2%80%A2%20PENETRATION%20TESTING%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI Cybersecurity and Penetration Testing" />
 
   <br/><br/>
 
@@ -28,12 +28,12 @@
 
   <br/>
 
-  <!-- Status Badges -->
+  <!-- Status Badges in Cohesive Matrix Neon Palette -->
   <p align="center">
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration Tester Role"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/PRIMARY%20WEAPON-PYTHON%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language Python"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-RED%20TEAM%20%2F%2F%20LEVEL%205-00FF9D?style=for-the-badge&logo=matrix&logoColor=090D16" alt="Red Team Clearance"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://komarev.com/ghpvc/?username=rmrashahriar&color=ff0055&style=for-the-badge&label=TARGET%20VISITORS" alt="Visitor Counter" /></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-00FF9D?style=for-the-badge&logo=kalilinux&logoColor=05090F" alt="Penetration Tester Role"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/PRIMARY%20WEAPON-PYTHON%203.12-00E5FF?style=for-the-badge&logo=python&logoColor=05090F" alt="Primary Language Python"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00FF9D?style=for-the-badge&logo=matrix&logoColor=05090F" alt="Red Team Clearance"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://komarev.com/ghpvc/?username=rmrashahriar&color=00ff9d&style=for-the-badge&label=TERMINAL%20VISITORS" alt="Visitor Counter" /></a>
   </p>
 
 </div>
@@ -42,7 +42,7 @@
 
 <!-- Animated Vector Cyber Terminal HUD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=6" width="100%" alt="Cyber Terminal HUD - Penetration Testing &amp; Python Exploit Dev Console" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=7" width="100%" alt="Cyber Terminal HUD - Penetration Testing &amp; Python Exploit Dev Console" />
 </div>
 
 <br/>
@@ -163,19 +163,19 @@ if __name__ == "__main__":
 
 <div align="center">
 
-  <!-- GitHub Streak Stats with Red Team / Matrix accents -->
+  <!-- GitHub Streak Stats with Pure Matrix Green & Cyan Accents -->
   <a href="https://github.com/rmrashahriar">
-    <img src="https://streak-stats.demolab.com/?user=rmrashahriar&theme=dark&background=0D1117&border=FF0055&stroke=FF0055&ring=00FF9D&fire=FF0055&currStreakNum=FF0055&sideNums=00D4FF&currStreakLabel=FF0055&sideLabels=8B949E&dates=8B949E" alt="RAFI GitHub Commit Streak Statistics" />
+    <img src="https://streak-stats.demolab.com/?user=rmrashahriar&theme=dark&background=05090F&border=00FF9D&stroke=00FF9D&ring=00E5FF&fire=00FF9D&currStreakNum=00FF9D&sideNums=00E5FF&currStreakLabel=00FF9D&sideLabels=64748B&dates=64748B" alt="RAFI GitHub Commit Streak Statistics" />
   </a>
 
   <br/><br/>
 
-  <!-- GitHub Stats & Top Languages Side by Side -->
+  <!-- GitHub Stats & Top Languages Side by Side (Matrix Green & Cyan) -->
   <a href="https://github.com/rmrashahriar">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=rmrashahriar&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF0055&text_color=E6EDF3&icon_color=00FF9D&border_color=FF0055&hide_border=false" width="49%" alt="RAFI GitHub Profile Overview - Total Commits, Pull Requests, Stars" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rmrashahriar&show_icons=true&theme=dark&bg_color=05090F&title_color=00FF9D&text_color=E6EDF3&icon_color=00E5FF&border_color=00FF9D&hide_border=false" width="49%" alt="RAFI GitHub Profile Overview - Total Commits, Pull Requests, Stars" />
   </a>
   <a href="https://github.com/rmrashahriar">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rmrashahriar&layout=compact&theme=dark&bg_color=0D1117&title_color=FF0055&text_color=E6EDF3&border_color=FF0055&hide_border=false" width="47%" alt="Top Programming Languages - Python, Kotlin, C++, Shell" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rmrashahriar&layout=compact&theme=dark&bg_color=05090F&title_color=00FF9D&text_color=E6EDF3&border_color=00FF9D&hide_border=false" width="47%" alt="Top Programming Languages - Python, Kotlin, C++, Shell" />
   </a>
 
 </div>
@@ -207,11 +207,11 @@ if __name__ == "__main__":
 <div align="center">
 
   <a href="https://github.com/rmrashahriar">
-    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-00D4FF?style=for-the-badge&logo=github&logoColor=090D16" alt="GitHub Profile for rmrashahriar" />
+    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-00E5FF?style=for-the-badge&logo=github&logoColor=05090F" alt="GitHub Profile for rmrashahriar" />
   </a>
   &nbsp;
   <a href="https://github.com/rmrashahriar/QuranicWords">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE_BUILD-QuranicWords-FF0055?style=for-the-badge&logo=android&logoColor=white" alt="QuranicWords Flagship Open Source Android Repository" />
+    <img src="https://img.shields.io/badge/OPEN_SOURCE_BUILD-QuranicWords-00FF9D?style=for-the-badge&logo=android&logoColor=05090F" alt="QuranicWords Flagship Open Source Android Repository" />
   </a>
 
   <br/><br/>
@@ -225,7 +225,7 @@ if __name__ == "__main__":
     <sub><b>Focus Domains:</b> Cybersecurity · Penetration Testing · Ethical Hacking · Python Exploit Development · Reverse Engineering · Binary Exploitation · Android Security · Mobile AppSec · Red Teaming · Linux Internals</sub>
   </p>
 
-  <!-- Cyber Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:200d16,100:ff0055&height=120&section=footer" width="100%" alt="Section Footer" />
+  <!-- Cyber Animated Footer Wave (Matrix Green Theme) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080e,40:0a2018,100:00ff9d&height=120&section=footer" width="100%" alt="Section Footer" />
 
 </div>

@@ -1,59 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
+    <!-- Dark Pitch Void Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050811" />
-      <stop offset="50%" stop-color="#081120" />
-      <stop offset="100%" stop-color="#050811" />
+      <stop offset="0%" stop-color="#04080E" />
+      <stop offset="50%" stop-color="#061214" />
+      <stop offset="100%" stop-color="#04080E" />
     </linearGradient>
 
-    <!-- Neon Text Gradient -->
+    <!-- Unified Matrix Neon Text Gradient -->
     <linearGradient id="cyberTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00FF9D" />
-      <stop offset="45%" stop-color="#00D4FF" />
-      <stop offset="100%" stop-color="#FF0055" />
+      <stop offset="50%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#00FF9D" />
     </linearGradient>
 
-    <!-- Shifting Border Gradient -->
+    <!-- Matrix Green & Cyan Shifting Border Gradient -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00FF9D">
-        <animate attributeName="stop-color" values="#00FF9D;#FF0055;#00D4FF;#00FF9D" dur="7s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#00FF9D;#00E5FF;#00FF66;#00FF9D" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="50%" stop-color="#FF0055">
-        <animate attributeName="stop-color" values="#FF0055;#00D4FF;#00FF9D;#FF0055" dur="7s" repeatCount="indefinite" />
+      <stop offset="50%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#00FF66;#00FF9D;#00E5FF" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#00D4FF">
-        <animate attributeName="stop-color" values="#00D4FF;#00FF9D;#FF0055;#00D4FF" dur="7s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#00FF66">
+        <animate attributeName="stop-color" values="#00FF66;#00FF9D;#00E5FF;#00FF66" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
-    <!-- Pulse Laser Scan -->
+    <!-- Scanning Laser Gradient -->
     <linearGradient id="headerLaser" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#00FF9D" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00FF9D" stop-opacity="0.35" />
-      <stop offset="100%" stop-color="#FF0055" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00FF9D" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Glow Filter -->
+    <!-- Matrix Glow Filter -->
     <filter id="hGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
 
-    <!-- Matrix Pattern -->
+    <!-- Matrix Dot Grid Pattern -->
     <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#111B2C" />
+      <circle cx="2" cy="2" r="1" fill="#0A221C" />
     </pattern>
   </defs>
 
   <style>
-    @keyframes pulseCircuits { 0%, 100% { stroke-opacity: 0.2; } 50% { stroke-opacity: 0.9; stroke: #FF0055; } }
+    @keyframes pulseCircuits { 0%, 100% { stroke-opacity: 0.25; } 50% { stroke-opacity: 1; stroke: #00FF9D; } }
     @keyframes laserSweep { 0% { transform: translateY(-40px); } 100% { transform: translateY(240px); } }
     @keyframes beaconBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
-    @keyframes glowTitle { 0%, 100% { filter: drop-shadow(0 0 6px rgba(0,255,157,0.6)); } 50% { filter: drop-shadow(0 0 18px rgba(255,0,85,0.8)); } }
+    @keyframes glowTitle { 0%, 100% { filter: drop-shadow(0 0 8px rgba(0,255,157,0.7)); } 50% { filter: drop-shadow(0 0 20px rgba(0,229,255,0.9)); } }
 
     .active-circuit { animation: pulseCircuits 3s ease-in-out infinite; stroke-width: 2; fill: none; }
     .laser-line { animation: laserSweep 3.5s linear infinite; }
@@ -66,58 +66,58 @@
   <rect x="2" y="2" width="896" height="226" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2" />
   <rect x="4" y="4" width="892" height="222" rx="12" fill="url(#dotPattern)" />
 
-  <!-- Animated Circuit Traces (Left Side) -->
+  <!-- Animated Circuit Traces (Left Side - Pure Green & Cyan) -->
   <g class="active-circuit">
-    <path d="M 10 40 L 90 40 L 130 80 L 180 80" stroke="#00D4FF" />
-    <circle cx="180" cy="80" r="3.5" fill="#00D4FF" filter="url(#hGlow)" />
+    <path d="M 10 40 L 90 40 L 130 80 L 180 80" stroke="#00E5FF" />
+    <circle cx="180" cy="80" r="3.5" fill="#00E5FF" filter="url(#hGlow)" />
 
-    <path d="M 10 110 L 70 110 L 110 150 L 210 150" stroke="#FF0055" />
-    <circle cx="210" cy="150" r="3.5" fill="#FF0055" filter="url(#hGlow)" />
+    <path d="M 10 110 L 70 110 L 110 150 L 210 150" stroke="#00FF9D" />
+    <circle cx="210" cy="150" r="3.5" fill="#00FF9D" filter="url(#hGlow)" />
 
     <path d="M 10 180 L 120 180 L 150 150" stroke="#00FF9D" />
   </g>
 
-  <!-- Animated Circuit Traces (Right Side) -->
+  <!-- Animated Circuit Traces (Right Side - Pure Green & Cyan) -->
   <g class="active-circuit">
-    <path d="M 890 40 L 810 40 L 770 80 L 720 80" stroke="#FF0055" />
-    <circle cx="720" cy="80" r="3.5" fill="#FF0055" filter="url(#hGlow)" />
+    <path d="M 890 40 L 810 40 L 770 80 L 720 80" stroke="#00FF9D" />
+    <circle cx="720" cy="80" r="3.5" fill="#00FF9D" filter="url(#hGlow)" />
 
-    <path d="M 890 110 L 830 110 L 790 150 L 690 150" stroke="#00D4FF" />
-    <circle cx="690" cy="150" r="3.5" fill="#00D4FF" filter="url(#hGlow)" />
+    <path d="M 890 110 L 830 110 L 790 150 L 690 150" stroke="#00E5FF" />
+    <circle cx="690" cy="150" r="3.5" fill="#00E5FF" filter="url(#hGlow)" />
 
     <path d="M 890 180 L 780 180 L 750 150" stroke="#00FF9D" />
   </g>
 
   <!-- Top Security Status Bar -->
   <g transform="translate(450, 36)" text-anchor="middle" class="mono-meta">
-    <circle cx="-185" cy="-4" r="4" fill="#FF0055" class="beacon" filter="url(#hGlow)" />
-    <text x="0" y="0" font-size="11" fill="#00FF9D" letter-spacing="3" font-weight="bold">CYBER RANGE ACTIVE // OFFENSIVE SECURITY &amp; PENTESTING PROTOCOL</text>
+    <circle cx="-190" cy="-4" r="4" fill="#00FF9D" class="beacon" filter="url(#hGlow)" />
+    <text x="0" y="0" font-size="11" fill="#00FF9D" letter-spacing="3" font-weight="bold">TERMINAL PROTOCOL // MATRIX PHOSPHOR CYBERNETIC SYSTEM</text>
   </g>
 
   <!-- Central Laser-Straight Hero Brand -->
   <g transform="translate(450, 112)" text-anchor="middle">
     <!-- Corner HUD Brackets -->
-    <path d="M -160 -40 L -180 -40 L -180 -15" stroke="#FF0055" stroke-width="2.5" fill="none" />
-    <path d="M 160 -40 L 180 -40 L 180 -15" stroke="#FF0055" stroke-width="2.5" fill="none" />
-    <path d="M -160 30 L -180 30 L -180 5" stroke="#00FF9D" stroke-width="2.5" fill="none" />
-    <path d="M 160 30 L 180 30 L 180 5" stroke="#00FF9D" stroke-width="2.5" fill="none" />
+    <path d="M -160 -40 L -180 -40 L -180 -15" stroke="#00FF9D" stroke-width="2.5" fill="none" />
+    <path d="M 160 -40 L 180 -40 L 180 -15" stroke="#00FF9D" stroke-width="2.5" fill="none" />
+    <path d="M -160 30 L -180 30 L -180 5" stroke="#00E5FF" stroke-width="2.5" fill="none" />
+    <path d="M 160 30 L 180 30 L 180 5" stroke="#00E5FF" stroke-width="2.5" fill="none" />
 
-    <!-- Perfectly Straight Vector Typography for RAFI -->
+    <!-- Laser-Straight Typography for RAFI -->
     <text x="0" y="2" class="hero-title" font-size="56" font-weight="900" fill="url(#cyberTextGrad)" letter-spacing="12" filter="url(#hGlow)">RAFI</text>
   </g>
 
   <!-- Sub-Heading Disciplines Focused on Pentesting, Cyber Security & Python -->
   <g transform="translate(450, 172)" text-anchor="middle" class="mono-meta">
     <text x="0" y="0" font-size="12" fill="#E6EDF3" font-weight="600" letter-spacing="3.5">
-      <tspan fill="#FF0055">PENETRATION TESTING</tspan>
-      <tspan fill="#4B5563"> • </tspan>
       <tspan fill="#00FF9D">CYBERSECURITY</tspan>
-      <tspan fill="#4B5563"> • </tspan>
-      <tspan fill="#00D4FF">PYTHON EXPLOIT TOOLING</tspan>
-      <tspan fill="#4B5563"> • </tspan>
-      <tspan fill="#FFB86C">REVERSE ENGINEERING</tspan>
+      <tspan fill="#00E5FF"> • </tspan>
+      <tspan fill="#00E5FF">PENETRATION TESTING</tspan>
+      <tspan fill="#00FF9D"> • </tspan>
+      <tspan fill="#00FF9D">PYTHON EXPLOIT DEV</tspan>
+      <tspan fill="#00E5FF"> • </tspan>
+      <tspan fill="#00E5FF">REVERSE ENGINEERING</tspan>
     </text>
-    <text x="0" y="24" font-size="10.5" fill="#8B949E" letter-spacing="2">RED TEAMING  ·  VULNERABILITY RESEARCH  ·  ANDROID APPSEC</text>
+    <text x="0" y="24" font-size="10.5" fill="#64748B" letter-spacing="2">RED TEAMING  ·  VULNERABILITY RESEARCH  ·  ANDROID APPSEC</text>
   </g>
 
   <!-- Scanning Laser Bar -->
