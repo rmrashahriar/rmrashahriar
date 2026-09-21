@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Cyber Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=210&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20SYSTEMS%20ARCHITECTURE%20%E2%80%A2%20SECURITY%20RESEARCH%20%E2%80%A2%20ANDROID%20ENGINEERING&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <!-- Bespoke Animated Vector Cyber Header Banner -->
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header.svg" width="100%" alt="Cyber Header Banner" />
+
+  <br/><br/>
 
   <!-- Animated Terminal Typing SVG -->
   <a href="https://github.com/rmrashahriar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=850&lines=root%40rmrashahriar%3A~%23+whoami;%3E+Software+Engineer+%26+Security+Researcher;%3E+Specializing+in+Android+Architecture+%26+Low-Level+Systems;%3E+Architect+of+QuranicWords+%7C+Kotlin+%E2%80%A2+Compose+%E2%80%A2+Room;%3E+Zero-Telemetry+%E2%80%A2+High-Performance+%E2%80%A2+Offline-First;%3E+Terminal+Access+Granted+%E2%80%94+Welcome+to+the+Grid+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=850&lines=root%40rmrashahriar%3A~%23+whoami;%3E+Software+Engineer+%26+Systems+Security+Researcher;%3E+Specializing+in+Android+Architecture+%26+Low-Level+Systems;%3E+Architect+of+QuranicWords+%7C+Kotlin+%E2%80%A2+Compose+%E2%80%A2+Room;%3E+Zero-Telemetry+%E2%80%A2+High-Performance+%E2%80%A2+Offline-First;%3E+Terminal+Access+Granted+%E2%80%94+Welcome+to+the+Grid+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -24,7 +26,7 @@
 
 <!-- Animated Vector Cyber Terminal HUD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=4" width="100%" alt="Cyber Terminal HUD" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=5" width="100%" alt="Cyber Terminal HUD" />
 </div>
 
 <br/>
@@ -32,23 +34,19 @@
 <!-- Animated Cyber Divider -->
 <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-### 🛡️ `[ARSENAL & WEAPONRY MATRIX]`
+### 🛡️ `[ARSENAL & CAPABILITY MATRIX]`
 
 <div align="center">
 
-<!-- Modern Interactive Tech Icons -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,c,cpp,bash,linux,debian,docker,git,github,sqlite,vscode,neovim&theme=dark" alt="Tech Arsenal" />
-</a>
+  <!-- Animated Vector Skills Matrix -->
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-skills.svg" width="100%" alt="Cyber Skills Matrix" />
 
-<br/><br/>
+  <br/><br/>
 
-| Domain | Status | Capabilities & Weaponry |
-| :--- | :---: | :--- |
-| **📱 Mobile Architecture** | `[LOADED]` | `Kotlin 2.3` • `Jetpack Compose` • `Material 3` • `Room SQLite` • `Hilt / Dagger` • `Coroutines & Flow` • `DataStore` • `Custom Motion & Haptics` |
-| **🛡️ Systems & Security** | `[ENFORCED]` | `Linux Internals` • `Defensive Engineering` • `Access Control & Sandboxing` • `Reverse Engineering` • `Cryptographic Attestation` • `Network Protocols` |
-| **⚡ Languages & Low-Level** | `[COMPILED]` | `Kotlin` • `Python 3.12` • `C / C++` • `Bash / Zsh` • `SQL / SQLite` • `Java` |
-| **⚙️ DevOps & Tooling** | `[ACTIVE]` | `Git / GitHub Actions` • `Docker` • `Virtualization & QEMU` • `Gradle / KTS` • `Linux Administration` • `CI/CD Pipelines` |
+  <!-- Modern Interactive Tech Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,c,cpp,bash,linux,debian,docker,git,github,sqlite,vscode,neovim&theme=dark" alt="Tech Arsenal" />
+  </a>
 
 </div>
 
@@ -57,44 +55,50 @@
 <!-- Animated Cyber Divider -->
 <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-### 🚀 `[FEATURED REPOSITORIES & MISSIONS]`
+### 🚀 `[FEATURED MISSIONS & ARTIFACTS]`
+
+<div align="center">
+  <!-- Holographic Repo Showcase Card -->
+  <a href="https://github.com/rmrashahriar/QuranicWords">
+    <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/repo-showcase.svg" width="100%" alt="QuranicWords Showcase" />
+  </a>
+</div>
+
+<br/>
+
+<details>
+<summary><b>⚡ [MAINFRAME ARCHITECTURAL BLUEPRINTS // CLICK TO EXPAND]</b></summary>
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📖 [QuranicWords](https://github.com/rmrashahriar/QuranicWords)
-**Production-Grade Gamified Arabic Vocabulary Engine**
-
-- 🌟 **4,709 Arabic Lemmas** taught across **10 Chapters**, **100 Sections**, **1,217 Lessons**, and **14,358 Exercises**, covering **59,888 occurrences (~80%+ of the Qur'an)**.
-- ⚡ **Cutting-Edge Android Tech**: Kotlin 2.3 + Jetpack Compose + Material 3 + Room DB + Hilt + Coroutines/Flow.
-- 🔒 **Absolute Privacy**: 100% offline-first, zero sign-in, zero cloud backend, zero network permissions.
-- 🧠 **Adaptive Intelligence**: Dynamic distractor generator, polysemy analysis (*Wujūh al-Qur'an*), and multi-modal testing suite.
-
-```bash
-$ git clone https://github.com/rmrashahriar/QuranicWords.git
-$ ./gradlew :app:assembleRelease # 100% reproducible & offline
-```
+#### 📱 Native Android Architecture
+- **MVI / MVVM State Management**: Single-source-of-truth unidirectional data flow using Kotlin `StateFlow` and pure immutable state models.
+- **Offline-First Persistence**: Room database caching with reactive Flow observations, zero cloud dependency, and zero network calls.
+- **Hardware Integration**: Bespoke micro-animations, physics-based gesture responses, and haptic feedback orchestration.
+- **Test-Driven Architecture**: JVM unit test coverage across business models, distractor algorithms, and database DAOs.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Systems Engineering & Security Research
-**Resilient, High-Assurance Software Foundations**
-
-- 🔐 **Hardened System Design**: Designing software that assumes hostility by default, enforcing strict principle of least privilege.
-- 🔍 **Defensive Analysis**: In-depth analysis of binaries, system calls, network telemetry, and memory safety.
-- 💻 **Offline-First Resilience**: Architectures designed to function seamlessly without dependence on cloud backends or external telemetry.
-- 📐 **Engineering Standards**: Deterministic builds, rigorous automated testing, and zero-compromise code quality.
-
-```bash
-# Core Philosophy
-Build Reliable  ·  Design Secure  ·  Protect Privacy
-```
+#### 🛡️ Defensive Systems Engineering
+- **Default-Deny Execution**: Strict sandboxing, capability isolation, and minimal attack surface principles.
+- **Memory Safety & Low-Level**: High-performance C/C++ and Kotlin native pipelines with zero memory leaks.
+- **Deterministic Reproducibility**: Cryptographic lineage, reproducible release artifacts, and strict SBOM standards.
+- **Privacy-First Design**: Zero user telemetry, zero ad-trackers, zero behavioral profiling beacons.
 
 </td>
 </tr>
 </table>
+
+```bash
+# Architectural Standard
+Harden  ·  Verify  ·  Encrypt  ·  Attest
+```
+
+</details>
 
 <br/>
 
