@@ -3,35 +3,36 @@
   Username: rmrashahriar
   Name: RAFI
   GitHub: https://github.com/rmrashahriar
-  Role: Cybersecurity Researcher, Penetration Tester & Python Security Engineer
-  Search Keywords: rmrashahriar, rmrashahriar github, rafi rmrashahriar, Cybersecurity, Penetration Testing, Ethical Hacking, Python Exploit Development, Reverse Engineering, Binary Exploitation, Android Security, Mobile AppSec, Red Teaming, Linux Internals, Network Security
+  Role: Cybersecurity Researcher, Penetration Tester, Passionate Linux Enthusiast & Python Security Engineer
+  Search Keywords: rmrashahriar, rmrashahriar github, rafi rmrashahriar, Passionate Linux Enthusiast, Linux Kernel, Linux Systems, Cybersecurity, Penetration Testing, Ethical Hacking, Python Exploit Development, Reverse Engineering, Binary Exploitation, Android Security, Mobile AppSec, Red Teaming, Linux Internals
 -->
 
 <div align="center">
 
   <!-- Animated Top Cyber Wave Banner (Matrix Green Theme) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080e,40:0a2018,100:00ff9d&height=180&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20CYBERSECURITY%20%E2%80%A2%20PENETRATION%20TESTING%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI rmrashahriar Cybersecurity and Penetration Testing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080e,40:0a2018,100:00ff9d&height=180&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20PASSIONATE%20LINUX%20ENTHUSIAST%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI rmrashahriar Passionate Linux Enthusiast and Cybersecurity" />
 
   <br/><br/>
 
   <!-- Accessible SEO Semantic Heading -->
-  <h1 align="center">RAFI (@rmrashahriar) // CYBERSECURITY RESEARCHER &amp; PENETRATION TESTER</h1>
-  <p align="center"><b>@rmrashahriar</b> • <i>Offensive Security • Python Exploit Tooling &amp; Automation • Reverse Engineering • Android &amp; System AppSec</i></p>
+  <h1 align="center">RAFI (@rmrashahriar) // CYBERSECURITY &amp; PENETRATION TESTER</h1>
+  <p align="center"><b>@rmrashahriar</b> • <i>Passionate Linux Enthusiast 🐧 • Offensive Security • Python Exploit Tooling • Reverse Engineering • Android AppSec</i></p>
 
   <!-- Bespoke Animated Vector Cyber Header Banner -->
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header.svg" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester &amp; Python Exploit Engineer Hero Banner" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header.svg" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester, Passionate Linux Enthusiast &amp; Python Exploit Engineer Hero Banner" />
 
   <br/><br/>
 
   <!-- Animated Terminal Typing SVG -->
   <a href="https://github.com/rmrashahriar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=850&lines=root%40kali%3A~%23+nmap+-sC+-sV+target.local;%3E+Cybersecurity+Researcher+%26+Penetration+Tester+%F0%9F%9B%A1%EF%B8%8F%E2%9A%A1;%3E+Python+Security+Tooling+%E2%80%A2+Exploit+Dev+%E2%80%A2+Automation;%3E+Reverse+Engineering+%E2%80%A2+Binary+Analysis+%E2%80%A2+Ghidra+%E2%80%A2+Frida;%3E+Android+AppSec+%E2%80%A2+Mobile+Pentesting+%E2%80%A2+Kernel+Hardening;%3E+Access+Granted%3A+Welcome+to+the+Cyber+Range+%F0%9F%92%80" alt="Cybersecurity Penetration Testing Terminal Simulation for RAFI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=850&lines=root%40kali%3A~%23+nmap+-sC+-sV+target.local;%3E+Cybersecurity+Researcher+%26+Penetration+Tester+%F0%9F%9B%A1%EF%B8%8F%E2%9A%A1;%3E+Passionate+Linux+Enthusiast+%F0%9F%90%A7+%E2%80%A2+Kernel+Internals+%26+Shellcraft;%3E+Python+Security+Tooling+%E2%80%A2+Exploit+Dev+%E2%80%A2+Automation;%3E+Reverse+Engineering+%E2%80%A2+Binary+Analysis+%E2%80%A2+Ghidra+%E2%80%A2+Frida;%3E+Android+AppSec+%E2%80%A2+Mobile+Pentesting+%E2%80%A2+Kernel+Hardening;%3E+Access+Granted%3A+Welcome+to+the+Cyber+Range+%F0%9F%92%80" alt="Cybersecurity Penetration Testing Terminal Simulation for RAFI" />
   </a>
 
   <br/>
 
   <!-- High-Contrast Stealth Badges with Crisp White Text -->
   <p align="center">
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/OS-LINUX%20ENTHUSIAST-05090F?style=for-the-badge&logo=linux&logoColor=00FF9D&labelColor=162E25" alt="Passionate Linux Enthusiast"/></a>
     <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-05090F?style=for-the-badge&logo=kalilinux&logoColor=00FF9D&labelColor=162E25" alt="Role: Penetration Tester"/></a>
     <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/PRIMARY%20WEAPON-PYTHON%203.12-05090F?style=for-the-badge&logo=python&logoColor=00E5FF&labelColor=0A2228" alt="Primary Weapon: Python 3.12"/></a>
     <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-05090F?style=for-the-badge&logo=matrix&logoColor=00FF9D&labelColor=162E25" alt="Clearance: Level 5"/></a>
