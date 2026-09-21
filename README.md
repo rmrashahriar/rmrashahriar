@@ -65,7 +65,7 @@
 <div align="center">
 
   <!-- Animated Vector Skills Matrix -->
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-skills.svg?v=10" width="100%" alt="Penetration Testing, Python Tooling, Reverse Engineering, and Android AppSec Matrix" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-skills.svg?v=18" width="100%" alt="Penetration Testing, Python Tooling, Reverse Engineering, and Android AppSec Matrix" />
 
   <br/><br/>
 

@@ -54,8 +54,7 @@
     @keyframes laserSweep { 0% { transform: translateY(-40px); } 100% { transform: translateY(250px); } }
     @keyframes beaconBlink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
     @keyframes glowTitle { 0%, 100% { filter: drop-shadow(0 0 8px rgba(0,255,157,0.7)); } 50% { filter: drop-shadow(0 0 20px rgba(0,229,255,0.9)); } }
-    @keyframes rotateReticle { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-    @keyframes pulseEmblem {
+        @keyframes pulseEmblem {
       0%, 100% {
         filter: drop-shadow(0 0 8px #00FF9D) drop-shadow(0 0 16px rgba(0,255,157,0.5));
       }
@@ -70,8 +69,7 @@
     .hero-title { animation: glowTitle 4s ease-in-out infinite; font-family: system-ui, -apple-system, sans-serif; }
     .mono-meta { font-family: 'Fira Code', 'Courier New', monospace; }
     .cyber-emblem { animation: pulseEmblem 3s ease-in-out infinite; }
-    .rotating-ring { animation: rotateReticle 12s linear infinite; transform-origin: 0px 0px; }
-  </style>
+      </style>
 
   <!-- Background Frame -->
   <rect x="2" y="2" width="896" height="236" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2" />
@@ -116,7 +114,7 @@
     <!-- Left: Cyber Glowing Spartan Logo with Rotating HUD Reticle -->
     <g transform="translate(-155, -4)">
       <!-- Outer Rotating Cyber Reticle -->
-      <circle cx="0" cy="0" r="46" stroke="#00FF9D" stroke-width="1.5" stroke-dasharray="6 8" fill="none" class="rotating-ring" stroke-opacity="0.6" />
+      <circle cx="0" cy="0" r="46" stroke="#00FF9D" stroke-width="1.5" stroke-dasharray="6 8" fill="none" stroke-opacity="0.6" stroke-opacity="0.6" />
       <circle cx="0" cy="0" r="41" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.35" fill="none" />
       
       <!-- Embedded Glowing Logo -->
