@@ -24,7 +24,7 @@
 
 <!-- Animated Vector Cyber Terminal HUD -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-terminal.svg" width="100%" alt="Cyber Terminal HUD" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/terminal.svg?v=2" width="100%" alt="Cyber Terminal HUD" />
 </div>
 
 <br/>
