@@ -7,6 +7,11 @@
 
 <div align="center">
 
+  <!-- Animated Top Cyber Wave Banner (Matching Footer Wave) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:200d16,100:ff0055&height=180&section=header&text=RAFI&fontSize=50&fontColor=FF0055&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20PENETRATION%20TESTING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20PYTHON%20EXPLOIT%20DEV&descAlignY=62&descAlign=50" width="100%" alt="Top Cyber Wave Banner - RAFI Cybersecurity and Penetration Testing" />
+
+  <br/><br/>
+
   <!-- Accessible SEO Semantic Heading -->
   <h1 align="center">RAFI // CYBERSECURITY RESEARCHER &amp; PENETRATION TESTER</h1>
   <p align="center"><i>Offensive Security • Python Exploit Tooling &amp; Automation • Reverse Engineering • Android &amp; System AppSec</i></p>
