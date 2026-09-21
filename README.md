@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cyber Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=220&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=36&desc=%E2%96%B8%20SYSTEMS%20ENGINEER%20%E2%80%A2%20SECURITY%20RESEARCHER%20%E2%80%A2%20ANDROID%20ARCHITECT&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=200&section=header&text=RAFI&fontSize=54&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%E2%96%B8%20SYSTEMS%20ENGINEER%20%E2%80%A2%20SECURITY%20RESEARCHER%20%E2%80%A2%20ANDROID%20ARCHITECT&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
   <!-- Animated Terminal Typing SVG -->
   <a href="https://github.com/rmrashahriar">
