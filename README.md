@@ -28,12 +28,12 @@
 
   <br/>
 
-  <!-- Status Badges in Cohesive Matrix Neon Palette -->
+  <!-- High-Contrast Stealth Badges with Crisp White Text -->
   <p align="center">
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-00FF9D?style=for-the-badge&logo=kalilinux&logoColor=05090F" alt="Penetration Tester Role"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/PRIMARY%20WEAPON-PYTHON%203.12-00E5FF?style=for-the-badge&logo=python&logoColor=05090F" alt="Primary Language Python"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00FF9D?style=for-the-badge&logo=matrix&logoColor=05090F" alt="Red Team Clearance"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://komarev.com/ghpvc/?username=rmrashahriar&color=00ff9d&style=for-the-badge&label=TERMINAL%20VISITORS" alt="Visitor Counter" /></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-05090F?style=for-the-badge&logo=kalilinux&logoColor=00FF9D&labelColor=162E25" alt="Role: Penetration Tester"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/PRIMARY%20WEAPON-PYTHON%203.12-05090F?style=for-the-badge&logo=python&logoColor=00E5FF&labelColor=0A2228" alt="Primary Weapon: Python 3.12"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-05090F?style=for-the-badge&logo=matrix&logoColor=00FF9D&labelColor=162E25" alt="Clearance: Level 5"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://komarev.com/ghpvc/?username=rmrashahriar&color=05090f&style=for-the-badge&label=TERMINAL%20VISITORS" alt="Terminal Visitors Counter" /></a>
   </p>
 
 </div>
@@ -207,11 +207,11 @@ if __name__ == "__main__":
 <div align="center">
 
   <a href="https://github.com/rmrashahriar">
-    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-00E5FF?style=for-the-badge&logo=github&logoColor=05090F" alt="GitHub Profile for rmrashahriar" />
+    <img src="https://img.shields.io/badge/GITHUB_MAINFRAME-rmrashahriar-05090F?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A2228" alt="GitHub Profile for rmrashahriar" />
   </a>
   &nbsp;
   <a href="https://github.com/rmrashahriar/QuranicWords">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE_BUILD-QuranicWords-00FF9D?style=for-the-badge&logo=android&logoColor=05090F" alt="QuranicWords Flagship Open Source Android Repository" />
+    <img src="https://img.shields.io/badge/OPEN_SOURCE_BUILD-QuranicWords-05090F?style=for-the-badge&logo=android&logoColor=00FF9D&labelColor=162E25" alt="QuranicWords Flagship Open Source Android Repository" />
   </a>
 
   <br/><br/>
