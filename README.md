@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cyber Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=200&section=header&text=RAFI&fontSize=48&fontColor=00FF9D&animation=twinkling&fontAlignY=36&desc=%E2%96%B8%20SOFTWARE%20ENGINEER%20%E2%80%A2%20SECURITY%20RESEARCHER%20%E2%80%A2%20ANDROID%20ARCHITECT&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0d2030,100:00ff9d&height=220&section=header&text=RAFI&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=36&desc=%E2%96%B8%20SYSTEMS%20ENGINEER%20%E2%80%A2%20SECURITY%20RESEARCHER%20%E2%80%A2%20ANDROID%20ARCHITECT&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
   <!-- Animated Terminal Typing SVG -->
   <a href="https://github.com/rmrashahriar">
@@ -13,37 +13,26 @@
   <!-- Status Badges -->
   <p align="center">
     <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00FF9D?style=for-the-badge&logo=matrix&logoColor=090D16" alt="Clearance"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/MODE-STEALTH-00D4FF?style=for-the-badge&logo=linux&logoColor=white" alt="Environment"/></a>
-    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/STATUS-BUILDING-00FF9D?style=for-the-badge&logo=powershell&logoColor=black" alt="Status"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/MODE-STEALTH%20//%20AIR--GAPPED-00D4FF?style=for-the-badge&logo=linux&logoColor=white" alt="Environment"/></a>
+    <a href="https://github.com/rmrashahriar"><img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ACTIVE-00FF9D?style=for-the-badge&logo=powershell&logoColor=black" alt="Status"/></a>
     <a href="https://github.com/rmrashahriar"><img src="https://komarev.com/ghpvc/?username=rmrashahriar&color=00ff9d&style=for-the-badge&label=TERMINAL%20VISITORS" alt="Visitor Counter" /></a>
   </p>
 
 </div>
 
----
+<br/>
 
-### ⚡ `[SYSTEM_INITIALIZATION: IDENT_MATRIX]`
+<!-- Animated Vector Cyber Terminal HUD -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-terminal.svg" width="100%" alt="Cyber Terminal HUD" />
+</div>
 
-```bash
-┌──(operator㉿security)-[~/rmrashahriar]
-└─$ fastfetch --cyber-mode
-```
+<br/>
 
-```yaml
-  ██████╗  █████╗ ███████╗██╗     Host: rmrashahriar.dev
-  ██╔══██╗██╔══██╗██╔════╝██║     OS: Linux / Hardened Core
-  ██████╔╝███████║█████╗  ██║     Kernel: High-Assurance • Cryptographic Defense
-  ██╔══██╗██╔══██║██╔══╝  ██║     Architecture: Clean Architecture • MVVM • Offline-First
-  ██║  ██║██║  ██║██║     ██║     Ethos: Zero-Telemetry • High-Performance • Pure Privacy
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     Status: Compiling secure, resilient systems
-```
+<!-- Animated Cyber Divider -->
+<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-> **"Simplicity is prerequisite for reliability. Security is an architectural discipline."**  
-> Software Engineer & Security Researcher focused on building **high-performance mobile architectures**, **resilient software systems**, and **zero-telemetry, privacy-first applications**.
-
----
-
-### 🛡️ `[ARSENAL & TECHNOLOGIES]`
+### 🛡️ `[ARSENAL & WEAPONRY MATRIX]`
 
 <div align="center">
 
@@ -54,18 +43,21 @@
 
 <br/><br/>
 
-| Domain | Arsenal & Capabilities |
-| :--- | :--- |
-| **📱 Mobile Architecture** | `Kotlin 2.3` • `Jetpack Compose` • `Material 3` • `Room SQLite` • `Hilt / Dagger` • `Coroutines & Flow` • `DataStore` • `Custom Motion & Haptics` |
-| **🛡️ Systems & Security** | `Linux Internals` • `Defensive Engineering` • `Access Control & Sandboxing` • `Reverse Engineering` • `Cryptographic Attestation` • `Network Protocols` |
-| **⚡ Languages & Systems** | `Kotlin` • `Python` • `C / C++` • `Bash / Shell Scripting` • `SQL / SQLite` • `Java` |
-| **⚙️ DevOps & Tooling** | `Git / GitHub Actions` • `Docker` • `Virtualization & QEMU` • `Gradle / KTS` • `Linux Administration` • `CI/CD Pipelines` |
+| Domain | Status | Weaponry & Technologies |
+| :--- | :---: | :--- |
+| **📱 Mobile Architecture** | `[LOADED]` | `Kotlin 2.3` • `Jetpack Compose` • `Material 3` • `Room SQLite` • `Hilt / Dagger` • `Coroutines & Flow` • `DataStore` • `Custom Motion & Haptics` |
+| **🛡️ Systems & Security** | `[ENFORCED]` | `Linux Internals` • `Defensive Engineering` • `Access Control & Sandboxing` • `Reverse Engineering` • `Cryptographic Attestation` • `Network Protocols` |
+| **⚡ Languages & Low-Level** | `[COMPILED]` | `Kotlin` • `Python 3.12` • `C / C++` • `Bash / Zsh` • `SQL / SQLite` • `Java` |
+| **⚙️ DevOps & Tooling** | `[ACTIVE]` | `Git / GitHub Actions` • `Docker` • `Virtualization & QEMU` • `Gradle / KTS` • `Linux Administration` • `CI/CD Pipelines` |
 
 </div>
 
----
+<br/>
 
-### 🚀 `[FEATURED HIGHLIGHTS]`
+<!-- Animated Cyber Divider -->
+<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
+
+### 🚀 `[FEATURED MISSIONS & ARTIFACTS]`
 
 <table>
 <tr>
@@ -104,9 +96,12 @@ Build Reliable  ·  Design Secure  ·  Protect Privacy
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 `[TELEMETRY & ACTIVITY]`
+<!-- Animated Cyber Divider -->
+<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
+
+### 📊 `[TELEMETRY & COMBAT STATS]`
 
 <div align="center">
 
@@ -127,7 +122,10 @@ Build Reliable  ·  Design Secure  ·  Protect Privacy
 
 </div>
 
----
+<br/>
+
+<!-- Animated Cyber Divider -->
+<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
 ### 🐍 `[CONTRIBUTION MATRIX PROTOCOL]`
 
@@ -141,7 +139,10 @@ Build Reliable  ·  Design Secure  ·  Protect Privacy
 
 </div>
 
----
+<br/>
+
+<!-- Animated Cyber Divider -->
+<img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
 ### 📡 `[COMMUNICATION CHANNELS]`
 

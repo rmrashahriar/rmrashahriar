@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
+  <defs>
+    <!-- Dynamic Shifting Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF9D">
+        <animate attributeName="stop-color" values="#00FF9D;#00D4FF;#7928CA;#00FF9D" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#00D4FF">
+        <animate attributeName="stop-color" values="#00D4FF;#7928CA;#00FF9D;#00D4FF" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7928CA">
+        <animate attributeName="stop-color" values="#7928CA;#00FF9D;#00D4FF;#7928CA" dur="7s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Scanline Laser Gradient -->
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00FF9D" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00FF9D" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#161B22" />
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes scan { 0% { transform: translateY(-40px); } 100% { transform: translateY(370px); } }
+    @keyframes pulseGlow { 0%, 100% { filter: drop-shadow(0 0 4px #00FF9D); } 50% { filter: drop-shadow(0 0 10px #00D4FF); } }
+    @keyframes textGlow { 0%, 100% { opacity: 0.9; } 50% { opacity: 1; } }
+
+    .terminal-bg { fill: #080C14; }
+    .terminal-header { fill: #0D121F; }
+    .term-title { font-family: 'Fira Code', monospace, 'Courier New'; font-size: 12px; fill: #8B949E; }
+    .mono { font-family: 'Fira Code', monospace, 'Courier New'; }
+    .cursor { animation: blink 0.85s infinite; fill: #00FF9D; }
+    .scanner { animation: scan 3.5s linear infinite; }
+    .brand-glow { animation: pulseGlow 4s ease-in-out infinite; }
+    .hud-line { font-size: 13px; }
+  </style>
+
+  <!-- Outer Glow Frame -->
+  <rect x="2" y="2" width="846" height="356" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="2" />
+  
+  <!-- Terminal Body Background -->
+  <rect x="4" y="4" width="842" height="352" rx="10" class="terminal-bg" />
+  <rect x="4" y="4" width="842" height="352" rx="10" fill="url(#grid)" />
+
+  <!-- Terminal Header Bar -->
+  <path d="M4 14 Q4 4 14 4 L836 4 Q846 4 846 14 L846 36 L4 36 Z" class="terminal-header" />
+  <line x1="4" y1="36" x2="846" y2="36" stroke="#1F2937" stroke-width="1" />
+
+  <!-- Window Dots (macOS style) -->
+  <circle cx="22" cy="20" r="5.5" fill="#FF5F56" />
+  <circle cx="39" cy="20" r="5.5" fill="#FFBD2E" />
+  <circle cx="56" cy="20" r="5.5" fill="#27C93F" />
+
+  <!-- Terminal Window Title -->
+  <text x="425" y="24" text-anchor="middle" class="term-title">root@security-core: ~/rmrashahriar (zsh)</text>
+
+  <!-- Live Status Badges on right side of title -->
+  <g transform="translate(710, 14)">
+    <circle cx="6" cy="6" r="3.5" fill="#00FF9D" class="brand-glow" />
+    <text x="16" y="9" font-family="'Fira Code', monospace" font-size="10" fill="#00FF9D" font-weight="bold">ONLINE</text>
+  </g>
+
+  <!-- Terminal Body Content -->
+  <!-- Prompt line -->
+  <g transform="translate(26, 68)" class="mono hud-line">
+    <text x="0" y="0" fill="#00D4FF" font-weight="bold">┌──(operator㉿security)</text><text x="195" y="0" fill="#8B949E">-[</text><text x="206" y="0" fill="#FF79C6">~/rmrashahriar</text><text x="325" y="0" fill="#8B949E">]</text>
+    <text x="0" y="24" fill="#00D4FF" font-weight="bold">└─#</text>
+    <text x="30" y="24" fill="#E6EDF3">fastfetch --cyber-profile --verbose</text>
+  </g>
+
+  <!-- ASCII Art & Specs Grid -->
+  <g transform="translate(26, 128)" class="mono">
+    <!-- ASCII Monogram Badge -->
+    <g class="brand-glow">
+      <text x="0" y="16" font-size="13" fill="#00FF9D" font-weight="bold"> ██████╗  █████╗ ███████╗██╗</text>
+      <text x="0" y="34" font-size="13" fill="#00FF9D" font-weight="bold"> ██╔══██╗██╔══██╗██╔════╝██║</text>
+      <text x="0" y="52" font-size="13" fill="#00D4FF" font-weight="bold"> ██████╔╝███████║█████╗  ██║</text>
+      <text x="0" y="70" font-size="13" fill="#00D4FF" font-weight="bold"> ██╔══██╗██╔══██║██╔══╝  ██║</text>
+      <text x="0" y="88" font-size="13" fill="#7928CA" font-weight="bold"> ██║  ██║██║  ██║██║     ██║</text>
+      <text x="0" y="106" font-size="13" fill="#7928CA" font-weight="bold"> ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝</text>
+    </g>
+
+    <!-- Vertical Divider -->
+    <line x1="280" y1="6" x2="280" y2="150" stroke="#21262D" stroke-width="1.5" stroke-dasharray="3,3" />
+
+    <!-- System Specs Table -->
+    <g transform="translate(305, 14)" font-size="12.5">
+      <text x="0" y="0" fill="#8B949E">IDENTIFIER:</text>
+      <text x="140" y="0" fill="#00FF9D" font-weight="bold">RAFI <tspan fill="#8B949E">(@rmrashahriar)</tspan></text>
+
+      <text x="0" y="24" fill="#8B949E">ROLE / FOCUS:</text>
+      <text x="140" y="24" fill="#E6EDF3">Software Engineer &amp; Security Researcher</text>
+
+      <text x="0" y="48" fill="#8B949E">CORE EXPERTISE:</text>
+      <text x="140" y="48" fill="#00D4FF">Android Architecture • Low-Level Systems</text>
+
+      <text x="0" y="72" fill="#8B949E">PRIMARY ARSENAL:</text>
+      <text x="140" y="72" fill="#FFB86C">Kotlin • Compose • Room • Python • C/C++</text>
+
+      <text x="0" y="96" fill="#8B949E">FLAGSHIP BUILD:</text>
+      <text x="140" y="96" fill="#50FA7B">QuranicWords <tspan fill="#BD93F9">[v1.0.0 • Offline-First • Room DB]</tspan></text>
+
+      <text x="0" y="120" fill="#8B949E">SECURITY ETHOS:</text>
+      <text x="140" y="120" fill="#FF79C6">Zero Telemetry • Cryptographic Integrity • Privacy</text>
+
+      <text x="0" y="144" fill="#8B949E">SYSTEM STATUS:</text>
+      <text x="140" y="144" fill="#00FF9D">100% OPERATIONAL // ALL CIRCUITS ARMED</text>
+      <rect x="445" y="134" width="8" height="13" class="cursor" />
+    </g>
+  </g>
+
+  <!-- Bottom Terminal Decorative Status Line -->
+  <g transform="translate(26, 334)" class="mono" font-size="11">
+    <text x="0" y="0" fill="#58A6FF">⚡ MEMORY: 64GB DDR5</text>
+    <text x="210" y="0" fill="#7EE787">🛡️ SANDBOX: STRICT</text>
+    <text x="400" y="0" fill="#D2A8FF">🔒 ENCRYPTION: AES-GCM-256</text>
+    <text x="640" y="0" fill="#FF7B72">● ATTACK SURFACE: MINIMAL</text>
+  </g>
+
+  <!-- Scanning Laser Overlay -->
+  <rect x="4" y="0" width="842" height="35" fill="url(#laserGrad)" class="scanner" pointer-events="none" />
+</svg>
