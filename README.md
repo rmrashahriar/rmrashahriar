@@ -26,7 +26,7 @@
   <p align="center"><b>@rmrashahriar</b> • <i>Linux Passionate 🐧 • Penetration Testing &amp; Cybersecurity • Python Exploit Tooling • Reverse Engineering • Systems Hardening</i></p>
 
   <!-- Bespoke Animated Vector Cyber Header Banner -->
-  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header-v2.svg" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester, Linux Passionate &amp; Python Exploit Engineer Hero Banner" />
+  <img src="https://raw.githubusercontent.com/rmrashahriar/rmrashahriar/main/assets/cyber-header-v2.svg?v=2" width="100%" alt="RAFI - Cybersecurity Researcher, Penetration Tester, Linux Passionate &amp; Python Exploit Engineer Hero Banner" />
 
   <br/><br/>
 

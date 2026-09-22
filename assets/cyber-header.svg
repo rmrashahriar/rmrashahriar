@@ -114,7 +114,7 @@
     <!-- Left: Cyber Glowing Spartan Logo with Rotating HUD Reticle -->
     <g transform="translate(-155, -4)">
       <!-- Outer Rotating Cyber Reticle -->
-      <circle cx="0" cy="0" r="46" stroke="#00FF9D" stroke-width="1.5" stroke-dasharray="6 8" fill="none" stroke-opacity="0.6" stroke-opacity="0.6" />
+      <circle cx="0" cy="0" r="46" stroke="#00FF9D" stroke-width="1.5" stroke-dasharray="6 8" fill="none" stroke-opacity="0.6" />
       <circle cx="0" cy="0" r="41" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.35" fill="none" />
       
       <!-- Embedded Glowing Logo -->
